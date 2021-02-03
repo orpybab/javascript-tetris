@@ -1,5 +1,8 @@
 # Tetris on Ainize!
 
+[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/orpybab/javascript-tetris)
+
+
 ### Step.1 Fork javascript-tetris
 
 Fork this repo and check your forked repo
